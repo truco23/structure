@@ -5,8 +5,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <Teste1 />
-      <Teste2 />
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
