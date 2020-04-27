@@ -25,7 +25,7 @@
     "eject": "react-scripts eject",
     "lint": "eslint --init",
     "generate": "plop --plopfile generators/index.js",
-    "commit": "npx git-cz"
+    "c": "git-cz"
   },
   "eslintConfig": {
     "extends": "react-app"
